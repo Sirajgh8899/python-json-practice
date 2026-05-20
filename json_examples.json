@@ -1,0 +1,5 @@
+{
+  "task": "summarize",
+  "input": "sample article",
+  "priority": "high"
+}
